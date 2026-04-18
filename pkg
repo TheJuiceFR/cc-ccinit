@@ -1,0 +1,8 @@
+package = {
+	version="1.0.1",
+	description="ComputerCraft library loader",
+	provides={"/loadlib.lua","/startup/000loadlib.lua"},
+	depends={},
+	optDepends={},
+}
+return package
